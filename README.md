@@ -8,9 +8,9 @@ Extension to **dict()** for attribute interface for dictionary items.
 
 ### AttrDict(dict)
 
-#### \__init\__(self, *args, **kwargs)
-#### \__setattr\__(self, key, value)
-#### \__getattr\__(self, key)
-#### \__dict\__(self) -> dict
-#### \__getstate\__(self) -> dict
-#### \__setstate\__(self, state)
+#### \_\_init\_\_(self, *args, **kwargs)
+#### \_\_setattr\_\_(self, key, value)
+#### \_\_getattr\_\_(self, key)
+#### \_\_dict\_\_(self) -> dict
+#### \_\_getstate\_\_(self) -> dict
+#### \_\_setstate\_\_(self, state)
