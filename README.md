@@ -2,7 +2,7 @@
 
 # attrdict
 
-Extension to dict() for attribute interface for dictionary items.
+Extension to **dict()** for attribute interface for dictionary items.
 
 ## Classes
 
